@@ -1,0 +1,5 @@
+flask>=2.3.0
+cbci-mcp
+tfci-mcp
+requests>=2.31.0
+python-dotenv>=1.0.0 
