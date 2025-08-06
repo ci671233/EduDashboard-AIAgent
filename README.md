@@ -1,1 +1,1 @@
-pip install tfci-mcp cbci-mcp
+test
